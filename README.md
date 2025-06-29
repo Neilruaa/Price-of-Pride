@@ -1,6 +1,6 @@
 # 🕯️ Price of Pride
 
-https://github.com/Neilruaa/Price-of-Pride/blob/main/Price%20of%20Pride%20logo.png?raw=true
+![image_alt](https://github.com/Neilruaa/Price-of-Pride/blob/main/Price%20of%20Pride%20logo.png?raw=true)
 
 ## 🎨 Identité visuelle & intention artistique
 
@@ -8,7 +8,7 @@ https://github.com/Neilruaa/Price-of-Pride/blob/main/Price%20of%20Pride%20logo.p
 L’univers visuel s’inspire d’iconographies religieuses détournées, de l'univers de dark souls et de blasphemous.  
 Chaque élément graphique vise à transmettre un sentiment d’oppression, de chute et de damnation.
 
-https://github.com/Neilruaa/Price-of-Pride/blob/main/da.png?raw=true
+![image_alt](https://github.com/Neilruaa/Price-of-Pride/blob/main/da.png?raw=true) 
 ---
 
 ## 🎮 Gameplay
